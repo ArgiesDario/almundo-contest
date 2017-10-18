@@ -17,13 +17,13 @@ Para viajar a cualquier destino se puede elegir cualquiera de las siguientes age
 #### Agencia A
 La agencia A tiene un descuento para viajero frecuente. Si un cliente vuela tres veces consecutivas con esta agencia, recibe un descuento del 35% en el costo del tercer vuelo.
 
-### Agencia B
+#### Agencia B
 La agencia B tiene un descuento para vuelos de larga distancia. Si un cliente compra un vuelo de más de 200 kilómetros, recibe un descuento del 15% en el costo de ese vuelo.
 
-### Agencia C
+#### Agencia C
 La agencia C tiene un convenio con la agencia B. Si un cliente compra un vuelo con la agencia C, y en su vuelo anterior optó por la agencia B, recibe un descuento del 20% en el costo del vuelo con la agencia C.
 
-### Agencia D
+#### Agencia D
 La agencia D te permite acumular kilómetros. Cada 10000 kilómetros recorridos con la agencia, reintegra al cliente un monto fijo de $ 15.
 
 
@@ -38,7 +38,7 @@ id_ciudad,coordenada_x,coordenada_y
 | coordenada_x | float |
 | coordenada_y | float |
 
-Ejemplo:
+#### Ejemplo:
 - 0,8223.16,4811.63
 - 1,3413.67,2929.25
 - 2,1589.17,54.62
@@ -62,7 +62,7 @@ id_ciudad_origen,agencia,id_ciudad_destino
 | agencia | char | 'A' para la agencia A, 'B' para la agencia B, 'C' para la agencia C o 'D' para la agencia D |
 | id_ciudad_destino | entero | Sólo se pueden usar los ids del archivo de ciudades |
 
--- Ejemplo:
+#### Ejemplo:
 - 1,A,7
 - 7,A,9
 - 9,A,23
