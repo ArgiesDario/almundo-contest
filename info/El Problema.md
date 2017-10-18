@@ -63,13 +63,14 @@ id_ciudad_origen,agencia,id_ciudad_destino
 | id_ciudad_destino | entero | Sólo se pueden usar los ids del archivo de ciudades |
 
 Ejemplo:
-1,A,7
-7,A,9
-9,A,23
-23,B,678
-678,C,43
-...
-87,B,1
+- 1,A,7
+- 7,A,9
+- 9,A,23
+- 23,B,678
+- 678,C,43
+- ...
+- 87,B,1
+
 
 
 ## Aclaraciones y recomendaciones
