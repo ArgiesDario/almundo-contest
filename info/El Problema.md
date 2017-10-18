@@ -55,10 +55,12 @@ Las coordenadas de las ciudades petenecen a un punto en un espacio euclídeo, y 
 El recorrido que nos envíes debe ser un archivo csv que contenga los siguientes campos:
 
 id_ciudad_origen,agencia,id_ciudad_destino
-Campo	Tipo	Valores
-id_ciudad_origen	entero	Sólo se pueden usar los ids del archivo de ciudades
-agencia	char	'A' para la agencia A, 'B' para la agencia B, 'C' para la agencia C o 'D' para la agencia D
-id_ciudad_destino	entero	Sólo se pueden usar los ids del archivo de ciudades
+
+| Campo | Tipo | Valores |
+| ----- | ---- | ------- |
+| id_ciudad_origen | entero | Sólo se pueden usar los ids del archivo de ciudades |
+| agencia | char | 'A' para la agencia A, 'B' para la agencia B, 'C' para la agencia C o 'D' para la agencia D |
+| id_ciudad_destino | entero | Sólo se pueden usar los ids del archivo de ciudades |
 
 Ejemplo:
 1,A,7
