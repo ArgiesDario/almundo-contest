@@ -14,7 +14,7 @@ Determinar la agencia turística a utilizar para cada viaje.
 ## Agencias
 Para viajar a cualquier destino se puede elegir cualquiera de las siguientes agencias:
 
-### Agencia A
+#### Agencia A
 La agencia A tiene un descuento para viajero frecuente. Si un cliente vuela tres veces consecutivas con esta agencia, recibe un descuento del 35% en el costo del tercer vuelo.
 
 ### Agencia B
