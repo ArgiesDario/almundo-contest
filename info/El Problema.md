@@ -39,13 +39,13 @@ id_ciudad,coordenada_x,coordenada_y
 | coordenada_y | float |
 
 Ejemplo:
-0,8223.16,4811.63
-1,3413.67,2929.25
-2,1589.17,54.62
-3,3427.14,6830.64
-4,1000.39,4352.62
-5,3705.33,7913.99
-...
+- 0,8223.16,4811.63
+- 1,3413.67,2929.25
+- 2,1589.17,54.62
+- 3,3427.14,6830.64
+- 4,1000.39,4352.62
+- 5,3705.33,7913.99
+- ...
 
 Las coordenadas de las ciudades petenecen a un punto en un espacio euclídeo, y la distancia que hay que recorrer para viajar entre dos ciudades se mide con la distancia euclidiana. La unidad de medida para esta distancia es el kilómetro.
 
@@ -62,7 +62,7 @@ id_ciudad_origen,agencia,id_ciudad_destino
 | agencia | char | 'A' para la agencia A, 'B' para la agencia B, 'C' para la agencia C o 'D' para la agencia D |
 | id_ciudad_destino | entero | Sólo se pueden usar los ids del archivo de ciudades |
 
-Ejemplo:
+-- Ejemplo:
 - 1,A,7
 - 7,A,9
 - 9,A,23
