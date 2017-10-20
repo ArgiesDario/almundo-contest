@@ -13,8 +13,9 @@ Resolver el problema del viajero, obteniendo el menor costo posible de viaje.
 - [El problema](https://github.com/ArgiesDario/almundo-contest/blob/master/info/El%20problema.md)
 - [Archivo de ciudades](https://github.com/ArgiesDario/almundo-contest/blob/master/info/archivo%20de%20ciudades.csv)
 - [Ranking de soluciones](https://github.com/ArgiesDario/almundo-contest/blob/master/info/Ganadores.jpg)
+- [FAQ](https://github.com/ArgiesDario/almundo-contest/blob/master/info/FAQ.md)
 
 #### Partes de la solucion
-- Arquitectura utilizada - En desarrollo
 - Explicacion de la resolucion - En desarrollo
+- Codigo - En desarrollo
 - Resultados obtenidos - En desarrollo
