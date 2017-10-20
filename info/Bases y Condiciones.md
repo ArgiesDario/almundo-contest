@@ -1,7 +1,7 @@
-# BASES DEL CONCURSO ALMUNDO ECI CHALLENGE JULIO 2017
+## BASES DEL CONCURSO ALMUNDO ECI CHALLENGE JULIO 2017
 La participación en este concurso implica el conocimiento y la aceptación por parte del participante de las presentes bases y condiciones. Cualquier violación a las mismas o a los procedimientos o sistemas aquí establecidos para la realización del presente concurso implicará la inmediata exclusión de las mismas y/o la revocación del premio.
 
-### DEL ORGANIZADOR:
+#### DEL ORGANIZADOR:
 El organizador del presente concurso es ASATEJ S.R.L. (Almundo.com) con domicilio sito en Esmeralda 950, piso 21°, Ciudad Autónoma de Buenos Aires.
 
 DEL PLAZO DEL CONCURSO:
