@@ -4,7 +4,7 @@
 Durante 1 semana en Julio del 2017 (del 24/07/2017 al 31/07/2017) se realizo el "Almundo Contest" o "Almundo Challenge". El cual consiste en resolver un [problema del viajero](https://es.wikipedia.org/wiki/Problema_del_viajante) complejo de la forma mas optima posible. Quien pueda obtener el mejor resultado en ese lapso de tiempo, sera ganador de 2 viajes a Europa.
 
 #### Para que?
-Si bien el concurso ya se encuentra finalizado, con su respectivo ganador, se intenta plantear una posible solucion al complejo problema planteado. Puramente con fines educativos
+Si bien el concurso ya se encuentra finalizado, con su respectivo ganador, se intenta plantear una posible solucion al complejo problema planteado. Puramente con fines educativos.
 
 #### Objetivo
 Resolver el problema del viajero, obteniendo el menor costo posible de viaje.
