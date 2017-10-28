@@ -1,4 +1,4 @@
-# Almundo Contest
+# Almundo Challenge
 
 #### Que es?
 Durante 1 semana en Julio del 2017 (del 24/07/2017 al 31/07/2017) se realizo el "Almundo Contest" o "Almundo Challenge". El cual consiste en resolver un algoritmo de la forma mas optima posible. Quien pueda resolverlo en ese lapso de tiempo, sera ganador de 2 viajes a Europa.
