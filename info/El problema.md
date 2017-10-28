@@ -47,7 +47,7 @@ id_ciudad,coordenada_x,coordenada_y
 - 5,3705.33,7913.99
 - ...
 
-Las coordenadas de las ciudades petenecen a un punto en un espacio euclídeo, y la distancia que hay que recorrer para viajar entre dos ciudades se mide con la distancia euclidiana. La unidad de medida para esta distancia es el kilómetro.
+Las coordenadas de las ciudades petenecen a un punto en un espacio euclídeo, y la distancia que hay que recorrer para viajar entre dos ciudades se mide con la [distancia euclidiana](https://es.wikipedia.org/wiki/Distancia_euclidiana). La unidad de medida para esta distancia es el kilómetro.
 
 
 ## Respuesta
