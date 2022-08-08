@@ -1,10 +1,10 @@
-import testcases
+import tests
 
-#--- Definicion de constantes
-sol_ganadora = r"..\info\solucion_ganadora.csv"
-arch_ciudades = r"..\info\archivo de ciudades.csv"
+# Definicion de constantes
+solucion = r"..\info\solucion_ganadora.csv"
+ciudades = r"..\info\archivo de ciudades.csv"
 
-#--- Ejecutar Caso de Prueba
-testcases.validar_calculo_resolucion(sol_ganadora=sol_ganadora, arch_ciudades=arch_ciudades)
+# Ejecutar Caso de Prueba
+tests.validar_solucion_ganadora(ciudades=ciudades, solucion=solucion)
 
 
